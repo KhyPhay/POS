@@ -1,0 +1,21 @@
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\bin\Debug\POS SYSTEM.exe
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\bin\Debug\Guna.UI2.dll
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\bin\Debug\POS SYSTEM.exe.config
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\bin\Debug\POS SYSTEM.pdb
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\obj\Debug\POS SYSTEM.csproj.AssemblyReference.cache
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.Login.resources
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.Main.resources
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.Model.CategoryAdd.resources
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.Model.ProductAdd.resources
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.Model.ucProduct.resources
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.POS.resources
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.Properties.Resources.resources
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.View.CategoryView.resources
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.View.ProductList.resources
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.View.StaffView.resources
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\obj\Debug\POS SYSTEM.csproj.GenerateResource.cache
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\obj\Debug\POS SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\obj\Debug\POS SYSTEM.csproj.CopyComplete
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\obj\Debug\POS SYSTEM.exe
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\obj\Debug\POS SYSTEM.pdb
+C:\Users\USer\OneDrive\Desktop\Project\POS SYSTEM\POS SYSTEM\obj\Debug\POS_SYSTEM.View.InvoiceView.resources
